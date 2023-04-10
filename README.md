@@ -1,2 +1,3 @@
 # stm32_egs
-example code using sensors on stm32 board
+Example code using sensors on stm32 board
+Reading a value from a sensor using an i2c wire interface and HAL libraries from STmicroelectronics
